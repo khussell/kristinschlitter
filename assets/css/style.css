@@ -1,4 +1,574 @@
-#firstParallax,
-#secondParallax{
-    background-color: #59b8c5;
+body{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
 }
+
+#firstSection,
+#secondSection{
+    background-color: #72dfcc;
+}
+
+#firstSection{
+    margin-top: -42px;
+    height: 700px;
+    border-bottom: 10px solid #bcaaa4;
+}
+
+
+#logo{
+    margin-left: -100px;
+}
+
+.foot{
+    position:fixed;
+    height: 70px;
+    background-color:#bcaaa4;
+   bottom:0;
+    width: 100%;
+    border-top: #6d4c41 2px solid;
+    
+    
+}
+
+.email{
+  
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    
+}
+
+
+.hs{
+    color: white;
+    width: 30%;
+    font-family: 'Amatic SC', cursive;
+   padding-top: 100px;
+    margin-left: 40px;
+    position: relative;
+    z-index: 12;
+}
+
+#secondSection{
+    height: 1500px;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 5px 5px #bcaaa4;
+    margin-top: 60px;
+}
+
+.secondSectionContainer{
+    height: 2000px;
+    position: relative;
+}
+
+#aboutMe{
+    position: relative;
+    bottom: 260px;
+    margin-left: 60px;
+   
+
+}
+
+.sticky{
+   float: left;
+   position: -webkit-sticky;
+    position: sticky;
+    margin-top: -230px;
+    top: 100px;
+    margin-left: 5%;
+    margin-bottom: 200px;
+   
+}
+
+.headshot{
+    border-radius: 50%;
+    border: #6d4c41 5px solid;
+    padding: 5px;
+    background-color: #dff7f3;
+   
+    
+    
+    
+}
+
+#paragraphs{
+    float: right;
+    margin-top: -220px;
+    font-size: 20px;
+    margin-right: 40px;
+    
+   
+}
+.paragraphs{
+   
+    width: 700px;
+}
+
+p{
+    margin-bottom: 30px;
+    line-height: 1.5;
+    
+}
+
+.jar{
+    position: relative;
+    z-index:3;
+}
+
+
+
+.first{
+    z-index: 2;
+    position: absolute;
+    top: 400px;
+    left: 55%;
+    animation-name: first;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes first {
+    0%   { 
+        left: 55%;
+       }
+    10%{
+       left: 57%;
+       top: 395px;   
+    }
+    20%{
+
+    }
+    50%{
+       
+        left: 53%;
+       }
+
+    75%{
+       
+        left: 48%;
+    }
+   
+    100% {
+       
+        top: 100px;
+        left: 40%;
+         }
+  }
+
+
+
+  .second{
+    z-index: 2;
+    position: absolute;
+    top: 380px;
+    left: 58%;
+    animation-name: second;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes second{
+    0%   { 
+        left: 58%;
+       }
+    10%{
+       left: 55%;
+       top: 375px;   
+    }
+    20%{
+        left: 58%;
+        top: 380px;
+
+    }
+    50%{
+       
+        left: 53%;
+       }
+
+    75%{
+       
+        right: 48%;
+    }
+   
+    100% {
+       
+        top: 100px;
+        right: 40%;
+         }
+  }
+
+
+
+
+
+  .third{
+    z-index: 2;
+    position: absolute;
+    top: 370px;
+    left: 58%;
+    animation-name: third;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes third{
+    0%   { 
+        top:360px;
+        left: 55%;
+       }
+    10%{
+       left: 53%;
+       top: 360px;   
+    }
+    20%{
+        left: 55%;
+        top: 370px;
+
+    }
+    40%{
+        top: 150px;
+        left: 57%;
+       }
+
+    50%{
+        top: 160px;
+        left:  60%;
+    }
+
+    60%{
+        top: 170px;
+        right: 57%;
+    }
+    75%{
+        top: 160px;
+       left: 55%;
+    }
+
+    75%{
+       left: 50%;
+        
+    }
+   
+    100% {
+       
+        top: 330px;
+        left: 45%;
+         }
+  }
+
+
+
+  .fourth{
+    z-index: 2;
+    position: absolute;
+    top: 390px;
+    left: 52%;
+    animation-name: fourth;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes fourth{
+    0%   { 
+        left: 52%;
+       }
+    10%{
+       left: 52%;
+       top: 388px;   
+    }
+    25%{
+        left: 54%;
+        top: 370px;
+
+    }
+    45%{
+       
+        left: 55%;
+       }
+
+    70%{
+        top: 380;
+        left: 58%;
+    }
+   
+    100% {
+       
+        top: 360px;
+        left: 54%;
+         }
+  }
+
+
+
+  .fifth{
+    z-index: 2;
+    position: absolute;
+    top: 350px;
+    left: 58%;
+    animation-name: fifth;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes fifth{
+    0%   { 
+        left: 58%;
+       }
+    20%{
+       left: 56%;
+       top: 330px;   
+    }
+    40%{
+        left: 54%;
+        top: 350px;
+
+    }
+    55%{
+       
+        left: 58%;
+       }
+
+    80%{
+        top: 380;
+        left: 56%;
+    }
+   
+    100% {
+       
+        top: 390px;
+        left: 58%;
+         }
+  }
+
+  .sixth{
+    z-index: 2;
+    position: absolute;
+    top: 390px;
+    left: 58%;
+    animation-name: sixth;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes sixth{
+    0%   { 
+        left: 58%;
+       }
+    10%{
+       left: 56%;
+       top: 350px;   
+    }
+    35%{
+        left: 56%;
+        top: 280px;
+
+    }
+    65%{
+        top: 200px;
+        left: 58%;
+       }
+
+    70%{
+        top: 380;
+        left: 56%;
+    }
+   
+    100% {
+       
+        top: 200px;
+        left: 64%;
+       }
+  }
+
+
+  .seventh{
+    z-index: 2;
+    position: absolute;
+    top: 400px;
+    left: 54%;
+    animation-name: seventh;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes seventh{
+    0%   { 
+        left: 54%;
+       }
+    10%{
+       left: 54%;
+       top: 410px;   
+    }
+    20%{
+        left: 54%;
+        top: 300px;
+
+    }
+    50%{
+        top: 150px;
+        left: 56%;
+       }
+    60%{
+        top: 140px;
+        left: 48%;
+    }
+
+    65%{
+        top: 150px;
+        left: 52%;
+    }
+
+    75%{
+        top: 160px;
+        left: 48%;
+    }
+
+    85%{
+        top: 150px; 
+        left: 44%;
+    }
+   
+    100% {
+       
+        top: 140px;
+        left: 48%;
+       }
+  }
+
+
+  .ninth{
+    z-index: 2;
+    position: absolute;
+    top: 300px;
+    left: 56%;
+    animation-name: ninth;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes ninth{
+    0%   { 
+        left: 56%;
+       }
+    5%{
+       left: 56%;
+       top: 300px;   
+    }
+    15%{
+        left: 53%;
+        top: 320px;
+
+    }
+    50%{
+        top: 290px;
+        left: 56%;
+       }
+    60%{
+        top: 190px;
+        left: 54%;
+    }
+
+    70%{
+        top: 200px;
+        left: 52%;
+    }
+
+    80%{
+        top: 220px;
+        left: 54%;
+    }
+
+   
+    100% {
+       
+        top: 210px;
+        left: 52%;
+       }
+  }
+
+
+
+  .eigth{
+    z-index: 2;
+    position: absolute;
+    top: 320px;
+    left: 54%;
+    animation-name: eigth;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+}
+
+
+
+@keyframes eigth{
+    0%   { 
+        left: 54%;
+       }
+    5%{
+       left: 54%;
+       top: 320px;   
+    }
+    15%{
+        left: 56%;
+        top: 320px;
+
+    }
+    35%{
+        top: 250px;
+    }
+    50%{
+        top: 270px;
+        left: 56%;
+       }
+    60%{
+        top: 320px;
+        left: 54%;
+    }
+
+    70%{
+        top: 390px;
+        left: 56%;
+    }
+
+    85%{
+        top: 400px;
+        left: 54%;
+    }
+
+   
+    100% {
+       
+        top: 370px;
+        left: 54%;
+       }
+  }
+
+

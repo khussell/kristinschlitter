@@ -16,7 +16,10 @@ body{
 
 
 #logo{
-    margin-left: -100px;
+    margin-left: -120px;
+    text-shadow: 2px 2px #6d4c41;
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .foot{
@@ -26,17 +29,17 @@ body{
    bottom:0;
     width: 100%;
     border-top: #6d4c41 2px solid;
+    z-index: 13;
     
     
 }
 
 .email{
-  
+   width: 200px;
     font-size: 25px;
     letter-spacing: 1.5px;
     text-decoration: none;
     color: white;
-    margin: 20px;
     
 }
 
@@ -52,7 +55,7 @@ body{
 }
 
 #secondSection{
-    height: 1500px;
+    height: 1300px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -60,13 +63,13 @@ body{
 }
 
 .secondSectionContainer{
-    height: 2000px;
+    height: 1400px;
     position: relative;
 }
 
 #aboutMe{
     position: relative;
-    bottom: 260px;
+    bottom: 300px;
     margin-left: 60px;
    
 
@@ -76,9 +79,9 @@ body{
    float: left;
    position: -webkit-sticky;
     position: sticky;
-    margin-top: -230px;
+    margin-top: -290px;
     top: 100px;
-    margin-left: 5%;
+    margin-left: 7%;
     margin-bottom: 200px;
    
 }
@@ -96,7 +99,7 @@ body{
 
 #paragraphs{
     float: right;
-    margin-top: -220px;
+    margin-top: -260px;
     font-size: 20px;
     margin-right: 40px;
     
@@ -111,6 +114,32 @@ p{
     margin-bottom: 30px;
     line-height: 1.5;
     
+}
+
+#work{
+    background-color:#72dfcc;
+    border-top: 5px solid #bcaaa4;
+    padding-bottom: 200px;
+}
+
+.workHead{
+    color: #6d4c41;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+#thisCard{
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+.cardsGoHere{
+    width: 90%;
+    margin: 0 auto;
+   
 }
 
 .jar{

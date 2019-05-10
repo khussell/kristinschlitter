@@ -44,7 +44,7 @@
      url:"https://jbambei.github.io/TourApp/start.html",
      linkToGitHub: "https://github.com/Jbambei/TourApp"
     },
-    {name: "Word Guess Game",
+    {name: "Word Guess",
     img: "assets/images/wordGuessGame.png",
      description: "A hangman-style game",
      url:"https://khussell.github.io/Word-Guess-Game/",

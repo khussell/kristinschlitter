@@ -59,8 +59,20 @@ body{
     z-index: 12;
 }
 
+.sideAbout{
+    color: white;
+  background-color:#bcaaa4;
+  margin-top: 10px;
+}
+
+.sideWork{
+    color: white;
+    background-color:#72dfcc;
+    margin-top: 10px;
+}
+
 #secondSection{
-    height: 1300px;
+    height: 1370px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -68,7 +80,7 @@ body{
 }
 
 .secondSectionContainer{
-    height: 1400px;
+    height: 1500px;
     position: relative;
 }
 
@@ -96,6 +108,8 @@ body{
     border: #6d4c41 5px solid;
     padding: 5px;
     background-color: #dff7f3;
+    height:50%;
+    width: 50%;
    
     
     
@@ -104,15 +118,15 @@ body{
 
 #paragraphs{
     float: right;
-    margin-top: -260px;
+    margin-top: -480px;
     font-size: 20px;
     margin-right: 40px;
     
    
 }
 .paragraphs{
-   
-    width: 700px;
+    float: right;
+    width: 60%;
 }
 
 p{
@@ -144,7 +158,8 @@ p{
 }
 
 .link1,
-.link2{
+.link2,
+.link3{
   text-decoration: none;
   color: #6d4c41;
   font-size: 15px;
@@ -152,6 +167,14 @@ p{
   padding: 10px;
   background-color: white;
   font-weight: bold;
+}
+
+.link1:hover,
+.link2:hover,
+.link3:hover{
+    color: #6d4c41;
+    border: 7px solid #bcaaa4;
+    background-color: white;
 }
 
 #thisCard{
@@ -624,4 +647,334 @@ p{
        }
   }
 
+/*large desktop*/
+
+ @media screen and (max-width: 1199px){
+    .hs{
+        padding-top: 0px;
+        margin-left: 10px;
+    }
+    .h1{
+        font-size: 70px;
+      
+    }
+    
+#firstSection{
+  margin-top: -80px;
+  height: 700px;
+}
+
+#jar{
+  margin-top: 140px;
+}
+
+#logo{
+  margin-left: -140px;
+  text-shadow: 2px 2px #6d4c41;
+  font-weight: bold;
+  letter-spacing: 2px;
+  
+
+}
+
+#aboutMe{
+    position: relative;
+    top: -140px;
+    margin-left: 60px;
+   
+
+}
+
+.sticky{
+   float: left;
+   position: -webkit-sticky;
+    position: sticky;
+    margin-top: -90px;
+    top: 100px;
+    margin-left: 8%;
+    margin-bottom: 200px;
+   
+}
+
+.headshot{
+    border-radius: 50%;
+    border: #6d4c41 2px solid;
+    padding: 2px;
+    background-color: #dff7f3;
+    height: 250px;
+    width: 250px;
+   
+    
+    
+    
+}
+
+#paragraphs{
+    float: right;
+    margin-top: -100px;
+    font-size: 20px;
+    margin-right: 20px;
+    
+   
+}
+.paragraphs{
+   
+    width: 430px;
+}
+
+p{
+    margin-bottom: 30px;
+    line-height: 1.5;
+    
+}
+
+#secondSection{
+    height: 1800px;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 5px 5px #bcaaa4;
+    margin-top: 60px;
+}
+
+.secondSectionContainer{
+    height: 1900px;
+  
+    position: relative;
+}
+
+#thisCard{
+    width: 300px;
+    height: 370px;
+}
+
+.cardsGoHere{
+    width: 70%;
+    margin: 0 auto;
+   
+}
+}
+
+
+
+ /*Tablet*/
+ @media screen and (max-width: 991px){
+    .hs{
+        padding-top: 0px;
+        margin-left: 10px;
+    }
+    .h1{
+        font-size: 50px;
+      
+    }
+    
+#firstSection{
+  margin-top: -100px;
+  height: 650px;
+}
+
+#jar{
+  margin-top: 140px;
+}
+
+#logo{
+  margin-left: -140px;
+  text-shadow: 2px 2px #6d4c41;
+  font-weight: bold;
+  letter-spacing: 2px;
+  
+
+}
+
+#aboutMe{
+    position: relative;
+    top: -100px;
+    margin-left: 60px;
+   
+
+}
+
+.sticky{
+   float: left;
+   position: -webkit-sticky;
+    position: sticky;
+    margin-top: -90px;
+    top: 100px;
+    margin-left: 8%;
+    margin-bottom: 200px;
+   
+}
+
+.headshot{
+    border-radius: 50%;
+    border: #6d4c41 2px solid;
+    padding: 2px;
+    background-color: #dff7f3;
+    height: 30%;
+    width: 30%;
+   
+    
+    
+    
+}
+
+#paragraphs{
+    float: right;
+    margin-top: -380px;
+    font-size: 20px;
+    margin-right: 20px;
+    
+   
+}
+.paragraphs{
+   float: right;
+    width: 58%;
+}
+
+p{
+    margin-bottom: 30px;
+    line-height: 1.5;
+    
+}
+
+#secondSection{
+    height: 2450px;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 5px 5px #bcaaa4;
+    margin-top: 60px;
+}
+
+.secondSectionContainer{
+    height: 2530px;
+  
+    position: relative;
+}
+
+#thisCard{
+    width: 230px;
+    height: 370px;
+}
+
+.cardsGoHere{
+    width: 90%;
+    margin: 0 auto;
+   
+}
+}
+
+
+
+
+
+
+
+/*Phone*/
+  @media screen and (max-width: 600px){
+      .hs{
+          padding-top: 0px;
+          margin-left: 10px;
+      }
+      .h1{
+          font-size: 32px;
+        
+      }
+      
+#firstSection{
+    margin-top: -100px;
+    height: 650px;
+}
+
+#jar{
+    margin-top: 140px;
+}
+
+#logo{
+    margin-left: -90px;
+    text-shadow: 2px 2px #6d4c41;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+
+}
+
+#aboutMe{
+    position: relative;
+    top: -80px;
+    margin-left: 30px;
+   
+
+}
+.sticky{
+    float: left;
+    width: 200px;
+     position: relative;
+     margin-top: -100px;
+     top: 20px;
+     margin-left: 20%;
+     margin-bottom: 0px;
+    
+ }
+ 
+ .headshot{
+     border-radius: 50%;
+     border: #6d4c41 5px solid;
+     padding: 5px;
+     background-color: #dff7f3;
+     width: 230px;
+     height: 230px;
+    
+     
+     
+     
+ }
+
+ #paragraphs{
+    float: none;
+    margin-top: 190px;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 30px;
+    
+   
+}
+.paragraphs{
+   
+    width: 350px;
+}
+
+p{
+    margin-bottom: 30px;
+    line-height: 1.5;
+    
+}
+
+#secondSection{
+    height: 2100px;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 5px 5px #bcaaa4;
+    margin-top: 60px;
+}
+
+.secondSectionContainer{
+    height: 2150px;
+    position: relative;
+}
+
+#thisCard{
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+.cardsGoHere{
+    width: 70%;
+    margin: 0 auto;
+   
+}
+
+  }
+
+
+ 
 

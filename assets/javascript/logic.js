@@ -58,6 +58,13 @@ var portWork = [
     description: "A hangman-style game",
     url: "https://khussell.github.io/Word-Guess-Game/",
     linkToGitHub: "https://github.com/khussell/Word-Guess-Game"
+  },
+  {
+    name: "Liri Bot",
+    img: "assets/images/nodeLiri.png",
+    description: "A language interpretion and recognition interface via node to get information on an artist's upcoming concerts, artists who sing a certain song name, and movie information. ",
+    url: "https://drive.google.com/file/d/1UnKkecNF_fk2nm5AipyTDntfN4Tmlp-j/view",
+    linkToGitHub: " https://github.com/khussell/liri-node-app"
   }
 
 ]

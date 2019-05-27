@@ -65,6 +65,13 @@ var portWork = [
     description: "A language interpretion and recognition interface via node to get information on an artist's upcoming concerts, artists who sing a certain song name, and movie information. ",
     url: "https://drive.google.com/file/d/1UnKkecNF_fk2nm5AipyTDntfN4Tmlp-j/view",
     linkToGitHub: " https://github.com/khussell/liri-node-app"
+  },
+  {
+    name: "Constructor Word Guess",
+    img:"assets/images/constructorWordGuess",
+    description: "A word guess game played in command line using constructors and node modules",
+    url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
+    linkToGitHub: "https://github.com/khussell/constructorWordGuess"
   }
 
 ]

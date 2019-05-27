@@ -68,7 +68,7 @@ var portWork = [
   },
   {
     name: "Constructor Word Guess",
-    img:"assets/images/constructorWordGuess",
+    img:"assets/images/constructorWordGuess.png",
     description: "A word guess game played in command line using constructors and node modules",
     url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
     linkToGitHub: "https://github.com/khussell/constructorWordGuess"

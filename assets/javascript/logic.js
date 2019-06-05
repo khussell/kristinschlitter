@@ -72,6 +72,13 @@ var portWork = [
     description: "A word guess game played in command line using constructors and node modules",
     url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
     linkToGitHub: "https://github.com/khussell/constructorWordGuess"
+  },
+  {
+    name: "Bamazon",
+    img:"assets/images/bamazon.png",
+    description: "Amazon-like storefront that simulates customer, manager, and supervisor actions in the strore. This app is used in the command line. \n Bamazon is made using Node.js, npm package inquirer, and mySql.",
+    url:"https://drive.google.com/file/d/1_3u4WNcNdoj0lq4xuoZUWoZ4-VU6SUdm/view",
+    linkToGitHub: "https://github.com/khussell/bamazon"
   }
 
 ]

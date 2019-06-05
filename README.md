@@ -19,3 +19,7 @@ Updates Include:
 -email and phone number added
 
 -more additional info about projects 
+
+## Link
+
+https://khussell.github.io/newPortfolio/

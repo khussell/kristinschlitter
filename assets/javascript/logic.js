@@ -74,11 +74,18 @@ var portWork = [
     linkToGitHub: "https://github.com/khussell/constructorWordGuess"
   },
   {
-    name: "Bamazon",
+    name: "Bamazon Storefront",
     img:"assets/images/bamazon.png",
     description: "Amazon-like storefront that simulates customer, manager, and supervisor actions in the strore. This app is used in the command line. \n Bamazon is made using Node.js, npm package inquirer, and mySql.",
     url:"https://drive.google.com/file/d/1_3u4WNcNdoj0lq4xuoZUWoZ4-VU6SUdm/view",
     linkToGitHub: "https://github.com/khussell/bamazon"
+  },
+  {
+    name: "Star Wars Friend Finder",
+    img: "assets/images/friendFinder.png",
+    description: "A compatibility based friend finder application with a Star Wars Theme. This app is made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
+    url: "https://gentle-ocean-91682.herokuapp.com/survey",
+    linkToGitHub: "https://github.com/khussell/friendFinder"
   }
 
 ]

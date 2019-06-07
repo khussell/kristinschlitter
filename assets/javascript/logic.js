@@ -84,7 +84,7 @@ var portWork = [
     name: "Star Wars Friend Finder",
     img: "assets/images/friendFinder.png",
     description: "A compatibility based friend finder application with a Star Wars Theme. This app is made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
-    url: "https://gentle-ocean-91682.herokuapp.com/survey",
+    url: "https://gentle-ocean-91682.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/friendFinder"
   }
 

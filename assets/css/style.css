@@ -476,10 +476,11 @@ p{
 }
 
 #logo{
-    margin-left: -90px;
+    margin-left: -120px;
     text-shadow: 2px 2px #6d4c41;
     font-weight: bold;
     letter-spacing: 2px;
+    font-size: 20px;
 }
 
 #aboutMe{
@@ -510,13 +511,13 @@ p{
  #paragraphs{
     float: none;
     margin-top: 190px;
-    font-size: 20px;
+    font-size: 15px;
     margin-right: 20px;
     margin-left: 30px; 
 }
 
 .paragraphs{
-    width: 350px;
+    width: 200px;
 }
 
 p{
@@ -525,7 +526,7 @@ p{
 }
 
 #secondSection{
-    height: 2100px;
+    height: 2300px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -533,7 +534,7 @@ p{
 }
 
 .secondSectionContainer{
-    height: 2150px;
+    height: 2400px;
     position: relative;
 }
 
@@ -544,7 +545,7 @@ p{
 }
 
 .cardsGoHere{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 }
 

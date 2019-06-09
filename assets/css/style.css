@@ -476,7 +476,7 @@ p{
 }
 
 #logo{
-    margin-left: -120px;
+    margin-left: -70px;
     text-shadow: 2px 2px #6d4c41;
     font-weight: bold;
     letter-spacing: 2px;
@@ -495,7 +495,7 @@ p{
      position: relative;
      margin-top: -100px;
      top: 20px;
-     margin-left: 20%;
+     margin-left: 10%;
      margin-bottom: 0px;
  }
  
@@ -517,16 +517,16 @@ p{
 }
 
 .paragraphs{
-    width: 200px;
+    width: 250px;
 }
 
 p{
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     line-height: 1.5; 
 }
 
 #secondSection{
-    height: 2300px;
+    height: 1840px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -534,7 +534,7 @@ p{
 }
 
 .secondSectionContainer{
-    height: 2400px;
+    height: 1900px;
     position: relative;
 }
 
@@ -545,7 +545,7 @@ p{
 }
 
 .cardsGoHere{
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
 

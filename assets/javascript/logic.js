@@ -86,6 +86,13 @@ var portWork = [
     description: "A compatibility based friend finder application with a Star Wars Theme. This app is made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
     url: "https://gentle-ocean-91682.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/friendFinder"
+  },
+  {
+    name: "Eat-Da-Burger",
+    img: "assets/images/burger.png",
+    description: "An app to add delicious burger names to a log, user will be able to devour burgers and remake them. This app is made using HTML, CSS, Javascript/JQuery, Node, persistent data with mySql, npm packages Express and Express Handlebars, and is deployed on Heroku",
+    url: "https://sleepy-river-34288.herokuapp.com/",
+    linkToGitHub: "https://github.com/khussell/burger"
   }
 
 ]

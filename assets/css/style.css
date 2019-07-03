@@ -72,7 +72,7 @@ body{
 }
 
 #secondSection{
-    height: 1370px;
+    height: 1070px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -80,7 +80,7 @@ body{
 }
 
 .secondSectionContainer{
-    height: 1500px;
+    height: 1200px;
     position: relative;
 }
 
@@ -319,7 +319,7 @@ p{
 }
 
 #secondSection{
-    height: 1800px;
+    height: 1300px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -327,7 +327,7 @@ p{
 }
 
 .secondSectionContainer{
-    height: 1900px;
+    height: 1400px;
   
     position: relative;
 }
@@ -426,7 +426,7 @@ p{
 }
 
 #secondSection{
-    height: 2450px;
+    height: 1550px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -434,7 +434,7 @@ p{
 }
 
 .secondSectionContainer{
-    height: 2530px;
+    height: 1650px;
     position: relative;
 }
 
@@ -512,12 +512,12 @@ p{
     float: none;
     margin-top: 190px;
     font-size: 15px;
-    margin-right: 20px;
-    margin-left: 30px; 
+    
+    margin-left: 80px; 
 }
 
 .paragraphs{
-    width: 250px;
+    width: 200px;
 }
 
 p{
@@ -526,7 +526,7 @@ p{
 }
 
 #secondSection{
-    height: 1840px;
+    height: 1400px;
     width: 80%;
     margin: 0 auto;
     box-shadow: 5px 5px #bcaaa4;
@@ -534,7 +534,7 @@ p{
 }
 
 .secondSectionContainer{
-    height: 1900px;
+    height: 1450px;
     position: relative;
 }
 

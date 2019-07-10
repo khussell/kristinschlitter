@@ -74,7 +74,7 @@ var portWork = [
     linkToGitHub: "https://github.com/khussell/bamazon"
   },
   {
-    name: "Smart Plants",
+    name: "Smart Plants- Plant Monitor",
     img: "assets/images/smartPlants.png",
     description: "Automatic, real-time plant care and monitoring app. Team project where my focus was on front-end using HTML, CSS, JavaScript/JQuery, Handlebars, Node, and Express",
     url: "https://smart-plants.herokuapp.com/",
@@ -88,7 +88,7 @@ var portWork = [
     linkToGitHub: "https://github.com/khussell/friendFinder"
   },
   {
-    name: "Sequelized Burger",
+    name: "Sequelized Burger Logger",
     img: "assets/images/sequelizedBurger.png",
     description: "An app to add delicious burger names to a log, user will be able to create burgers, devour burgers, delete burgers, and remake them. This app is made using HTML, CSS, Javascript/JQuery, Node, persistent data with mySql using npm package Sequelize, npm packages Express and Express Handlebars, and is deployed on Heroku",
     url: "https://dry-scrubland-63372.herokuapp.com/",

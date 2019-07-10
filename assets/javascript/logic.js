@@ -67,18 +67,18 @@ var portWork = [
     linkToGitHub: " https://github.com/khussell/liri-node-app"
   },
   {
-    name: "Constructor Word Guess",
-    img:"assets/images/constructorWordGuess.png",
-    description: "A word guess game played in command line using constructors and node modules",
-    url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
-    linkToGitHub: "https://github.com/khussell/constructorWordGuess"
-  },
-  {
     name: "Bamazon Storefront",
     img:"assets/images/bamazon.png",
     description: "Amazon-like storefront that simulates customer, manager, and supervisor actions in the strore. This app is used in the command line. \n Bamazon is made using Node.js, npm package inquirer, and mySql.",
     url:"https://drive.google.com/file/d/1_3u4WNcNdoj0lq4xuoZUWoZ4-VU6SUdm/view",
     linkToGitHub: "https://github.com/khussell/bamazon"
+  },
+  {
+    name: "Smart Plants",
+    img: "assets/images/smartPlants.png",
+    description: "Automatic, real-time plant care and monitoring app. Team project where my focus was on front-end using HTML, CSS, JavaScript/JQuery, Handlebars, Node, and Express",
+    url: "https://smart-plants.herokuapp.com/",
+    linkToGitHub: "https://github.com/khussell/smartPlants"
   },
   {
     name: "Star Wars Friend Finder",
@@ -88,11 +88,18 @@ var portWork = [
     linkToGitHub: "https://github.com/khussell/friendFinder"
   },
   {
-    name: "Eat-Da-Burger",
-    img: "assets/images/burger.png",
-    description: "An app to add delicious burger names to a log, user will be able to devour burgers and remake them. This app is made using HTML, CSS, Javascript/JQuery, Node, persistent data with mySql, npm packages Express and Express Handlebars, and is deployed on Heroku",
-    url: "https://sleepy-river-34288.herokuapp.com/",
-    linkToGitHub: "https://github.com/khussell/burger"
+    name: "Sequelized Burger",
+    img: "assets/images/sequelizedBurger.png",
+    description: "An app to add delicious burger names to a log, user will be able to create burgers, devour burgers, delete burgers, and remake them. This app is made using HTML, CSS, Javascript/JQuery, Node, persistent data with mySql using npm package Sequelize, npm packages Express and Express Handlebars, and is deployed on Heroku",
+    url: "https://dry-scrubland-63372.herokuapp.com/",
+    linkToGitHub: "https://github.com/khussell/sequelizedBurger"
+  },
+  {
+    name: "Constructor Word Guess",
+    img:"assets/images/constructorWordGuess.png",
+    description: "A word guess game played in command line using constructors and node modules",
+    url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
+    linkToGitHub: "https://github.com/khussell/constructorWordGuess"
   }
 
 ]

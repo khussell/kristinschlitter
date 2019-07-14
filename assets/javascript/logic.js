@@ -103,7 +103,7 @@ var portWork = [
   },
   {
     name: "Food News and Notes",
-    img:"assets/images/foodNews",
+    img:"assets/images/foodNews.png",
     description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio, Axios, and Heroku deployment",
     url: "https://stormy-springs-14609.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/newsNotes"

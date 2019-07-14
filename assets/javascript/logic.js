@@ -100,6 +100,13 @@ var portWork = [
     description: "A word guess game played in command line using constructors and node modules",
     url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
     linkToGitHub: "https://github.com/khussell/constructorWordGuess"
+  },
+  {
+    name: "Food News and Notes",
+    img:"assets/images/foodNews",
+    description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio, Axios, and Heroku deployment",
+    url: "https://stormy-springs-14609.herokuapp.com/",
+    linkToGitHub: "https://github.com/khussell/newsNotes"
   }
 
 ]

@@ -107,6 +107,13 @@ var portWork = [
     description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio, Axios, and Heroku deployment",
     url: "https://stormy-springs-14609.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/newsNotes"
+  },
+  {
+    name: "Golden Memories Game",
+    img: "assets/images/memory.png",
+    description: "A memory game where you click images that you have not clicked yet. Made with HTML, CSS, Vanilla Javascript, React",
+    url: " https://khussell.github.io/memory3/",
+    linkToGitHub: "https://github.com/khussell/memory3"
   }
 
 ]

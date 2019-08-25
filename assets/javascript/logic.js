@@ -13,10 +13,11 @@ var portWork = [
   {
     name: 'Dental Fillin',
     img: 'assets/images/dentalFillin.png',
-    description: "App to connect substitute dental hygienists with dental offices. Made with HTML, CSS, BootStrap, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
+    description: "App to connect substitute dental hygienists with dental offices. Made with HTML, CSS, BootStrap, Vanilla JavaScript, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Axios, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
     url:'https://dentalfillin.herokuapp.com/',
     linkToGitHub: 'https://github.com/khussell/dentalFillin',
   },
+  /*
   {
     name: "Balloon Schedular",
     img: "assets/images/balloonSchedular.png",
@@ -80,6 +81,7 @@ var portWork = [
     url:"https://drive.google.com/file/d/1_3u4WNcNdoj0lq4xuoZUWoZ4-VU6SUdm/view",
     linkToGitHub: "https://github.com/khussell/bamazon"
   },
+  */
   {
     name: "Smart Plants- Plant Monitor",
     img: "assets/images/smartPlants.png",
@@ -94,6 +96,7 @@ var portWork = [
     url: "https://gentle-ocean-91682.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/friendFinder"
   },
+  /*
   {
     name: "Sequelized Burger Logger",
     img: "assets/images/sequelizedBurger.png",
@@ -108,13 +111,15 @@ var portWork = [
     url: "https://drive.google.com/file/d/16853fRX3Fl7kHrviht394l3epnL1nFi9/view",
     linkToGitHub: "https://github.com/khussell/constructorWordGuess"
   },
+  */
   {
     name: "Food News and Notes",
     img:"assets/images/foodNews.png",
-    description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio, Axios, and Heroku deployment",
+    description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio web scraping, Axios, and Heroku deployment",
     url: "https://stormy-springs-14609.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/newsNotes"
   },
+  /*
   {
     name: "Golden Memories Game",
     img: "assets/images/memory.png",
@@ -122,6 +127,7 @@ var portWork = [
     url: " https://khussell.github.io/memory3/",
     linkToGitHub: "https://github.com/khussell/memory3"
   }
+  */
 
 ]
 

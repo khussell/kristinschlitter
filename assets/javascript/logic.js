@@ -13,7 +13,7 @@ var portWork = [
   {
     name: "Dental Fillin'",
     img: 'assets/images/dentalFillin.png',
-    description: "App to connect substitute dental hygienists with dental offices. Made with HTML, CSS, BootStrap, Vanilla JavaScript, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Axios, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
+    description: "App to connect substitute dental hygienists with dental offices. This app was a solo project made with HTML, CSS, BootStrap, Vanilla JavaScript, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Axios, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
     url:'https://dentalfillin.herokuapp.com/',
     linkToGitHub: 'https://github.com/khussell/dentalFillin',
   },
@@ -92,7 +92,7 @@ var portWork = [
   {
     name: "Friend Finder",
     img: "assets/images/friendFinder.png",
-    description: "A compatibility based friend finder application with a Star Wars Theme. This app is made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
+    description: "A compatibility based friend finder application with a Star Wars Theme. This app was a solo project made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
     url: "https://gentle-ocean-91682.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/friendFinder"
   },
@@ -115,7 +115,7 @@ var portWork = [
   {
     name: "Food News",
     img:"assets/images/foodNews.png",
-    description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio web scraping, Axios, and Heroku deployment",
+    description: "An app for viewing food news articles and leaving notes. This app was a solo project made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio web scraping, Axios, and Heroku deployment",
     url: "https://stormy-springs-14609.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/newsNotes"
   },

@@ -11,6 +11,13 @@ $(document).ready(function () {
 
 var portWork = [
   {
+    name: 'Dental Fillin',
+    img: 'assets/images/dentalFillin.png',
+    description: "App to connect substitute dental hygienists with dental offices. Made with HTML, CSS, BootStrap, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
+    url:'https://dentalfillin.herokuapp.com/',
+    linkToGitHub: 'https://github.com/khussell/dentalFillin',
+  },
+  {
     name: "Balloon Schedular",
     img: "assets/images/balloonSchedular.png",
     description: "A hot air balloon scheduling app",

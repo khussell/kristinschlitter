@@ -22,4 +22,4 @@ Updates Include:
 
 ## Link
 
-https://khussell.github.io/newPortfolio/
+https://khussell.github.io/kristinschlitter/

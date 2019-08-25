@@ -90,6 +90,13 @@ var portWork = [
     linkToGitHub: "https://github.com/khussell/smartPlants"
   },
   {
+    name: "Food News",
+    img:"assets/images/foodNews.png",
+    description: "An app for viewing food news articles and leaving notes. This app was a solo project made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio web scraping, Axios, and Heroku deployment",
+    url: "https://stormy-springs-14609.herokuapp.com/",
+    linkToGitHub: "https://github.com/khussell/newsNotes"
+  },
+  {
     name: "Friend Finder",
     img: "assets/images/friendFinder.png",
     description: "A compatibility based friend finder application with a Star Wars Theme. This app was a solo project made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
@@ -112,13 +119,7 @@ var portWork = [
     linkToGitHub: "https://github.com/khussell/constructorWordGuess"
   },
   */
-  {
-    name: "Food News",
-    img:"assets/images/foodNews.png",
-    description: "An app for viewing food news articles and leaving notes. This app was a solo project made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio web scraping, Axios, and Heroku deployment",
-    url: "https://stormy-springs-14609.herokuapp.com/",
-    linkToGitHub: "https://github.com/khussell/newsNotes"
-  },
+ 
   /*
   {
     name: "Golden Memories Game",

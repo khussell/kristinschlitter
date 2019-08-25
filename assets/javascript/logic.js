@@ -11,7 +11,7 @@ $(document).ready(function () {
 
 var portWork = [
   {
-    name: 'Dental Fillin',
+    name: "Dental Fillin'",
     img: 'assets/images/dentalFillin.png',
     description: "App to connect substitute dental hygienists with dental offices. Made with HTML, CSS, BootStrap, Vanilla JavaScript, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Axios, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
     url:'https://dentalfillin.herokuapp.com/',
@@ -83,14 +83,14 @@ var portWork = [
   },
   */
   {
-    name: "Smart Plants- Plant Monitor",
+    name: "Smart Plants",
     img: "assets/images/smartPlants.png",
     description: "Automatic, real-time plant care and monitoring app. Team project where my focus was on front-end using HTML, CSS, JavaScript/JQuery, Handlebars, Node, and Express",
     url: "https://smart-plants.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/smartPlants"
   },
   {
-    name: "Star Wars Friend Finder",
+    name: "Friend Finder",
     img: "assets/images/friendFinder.png",
     description: "A compatibility based friend finder application with a Star Wars Theme. This app is made using HTML, CSS, JavaScript/JQuery, Node,  and npm packages Express and Path",
     url: "https://gentle-ocean-91682.herokuapp.com/",
@@ -113,7 +113,7 @@ var portWork = [
   },
   */
   {
-    name: "Food News and Notes",
+    name: "Food News",
     img:"assets/images/foodNews.png",
     description: "An app for viewing food news articles and leaving notes. Made with HTML, CSS, MaterializeCSS, JavaScript, JQuery, Express, Handlebars, MongoDB, Mongoose, Cheerio web scraping, Axios, and Heroku deployment",
     url: "https://stormy-springs-14609.herokuapp.com/",

@@ -85,7 +85,7 @@ var portWork = [
   {
     name: "Smart Plants",
     img: "assets/images/smartPlants.png",
-    description: "Automatic, real-time plant care and monitoring app. Team project where my focus was on front-end using HTML, CSS, JavaScript/JQuery, Handlebars, Node, and Express",
+    description: "For demo purposes use 'jan' as the username and enter any password. This is an automatic, real-time plant care and monitoring app. Team project where my focus was on front-end using HTML, CSS, JavaScript/JQuery, Handlebars, Node, and Express",
     url: "https://smart-plants.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/smartPlants"
   },

@@ -13,7 +13,7 @@ var portWork = [
   {
     name: "Dental Fillin'",
     img: 'assets/images/dentalFillin.png',
-    description: "App to connect substitute dental hygienists with dental offices. This app was a solo project made with HTML, CSS, BootStrap, Vanilla JavaScript, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Axios, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
+    description: "For demo purposes login with user and password as 'sub1' or 'office1'. This app is used to connect substitute dental hygienists with dental offices. This app was a solo project made with HTML, CSS, BootStrap, Vanilla JavaScript, React, Express, Passport Auth, MongoDB, Mongoose, Google Maps and Geocode APIs, Axios, Nodemailer npm, Flatpickr Calendar npm, and deployed on Heroku.",
     url:'https://dentalfillin.herokuapp.com/',
     linkToGitHub: 'https://github.com/khussell/dentalFillin',
   },

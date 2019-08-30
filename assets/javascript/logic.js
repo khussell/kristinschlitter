@@ -145,7 +145,7 @@ for (var i = 0; i < portWork.length; i++) {
 
   var newDiv3 = $("<div>").addClass("card-content")
   var newSpan1 = $("<span>").addClass("card-title activator grey-text text-darken-4").text(portWork[i].name)
-  var newI = $("<i>").addClass("material-icons right").text("more_vert")
+  var newI = $("<i>").addClass("material-icons right teal-text").text("info")
   newSpan1.append(newI)
   var newP1 = $("<p>")
   var newA1 = $("<a>").attr("href", portWork[i].url).text("Check it out")

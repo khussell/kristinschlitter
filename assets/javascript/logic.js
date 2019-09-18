@@ -96,6 +96,7 @@ var portWork = [
     url: "https://stormy-springs-14609.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/newsNotes"
   },
+  /*
   {
     name: "Friend Finder",
     img: "assets/images/friendFinder.png",
@@ -103,14 +104,15 @@ var portWork = [
     url: "https://gentle-ocean-91682.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/friendFinder"
   },
-  /*
+  */
   {
-    name: "Sequelized Burger Logger",
+    name: "Sequelized Burger",
     img: "assets/images/sequelizedBurger.png",
     description: "An app to add delicious burger names to a log, user will be able to create burgers, devour burgers, delete burgers, and remake them. This app is made using HTML, CSS, Javascript/JQuery, Node, persistent data with mySql using npm package Sequelize, npm packages Express and Express Handlebars, and is deployed on Heroku",
     url: "https://dry-scrubland-63372.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/sequelizedBurger"
   },
+  /*
   {
     name: "Constructor Word Guess",
     img:"assets/images/constructorWordGuess.png",

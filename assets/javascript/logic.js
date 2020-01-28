@@ -96,6 +96,14 @@ var portWork = [
     url: "https://stormy-springs-14609.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/newsNotes"
   },
+  {
+    name: "PHP FauxPort",
+    img: "assets/images/fauxPort.png",
+    description: "An app to create cruise ship deals. Built with PHP, HTML,CSS, mySQL, and deployed on Heroku.",
+    url: "https://lit-savannah-15553.herokuapp.com/index.php",
+    linkToGitHub: "https://github.com/khussell/FauxPort",
+
+  },
   /*
   {
     name: "Friend Finder",
@@ -104,7 +112,7 @@ var portWork = [
     url: "https://gentle-ocean-91682.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/friendFinder"
   },
-  */
+  
   {
     name: "Sequelized Burger",
     img: "assets/images/sequelizedBurger.png",
@@ -112,7 +120,7 @@ var portWork = [
     url: "https://dry-scrubland-63372.herokuapp.com/",
     linkToGitHub: "https://github.com/khussell/sequelizedBurger"
   },
-  /*
+  
   {
     name: "Constructor Word Guess",
     img:"assets/images/constructorWordGuess.png",
